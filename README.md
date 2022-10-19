@@ -23,4 +23,4 @@ Para ter acesso a todos os dados de clima de cidades de todo o mundo
 Simples, porém efetivo. **Link do projeto:** https://appweatherlucascordeiro.netlify.app
 
 ## Considerações
-Este projeto foi uma releitura do projeto realizado pelo Matheus Balestrini, programador e youtuber.
+Este projeto foi uma releitura do projeto realizado pelo Matheus Battisti, programador e youtuber.
