@@ -20,7 +20,7 @@ Para ter acesso a todos os dados de clima de cidades de todo o mundo
 
 ![openweather - img](https://user-images.githubusercontent.com/89361241/196690568-3dec0738-b5e7-4fc9-a0bd-6bb9d7adcf22.png)
 
-Simples, porém efetivo. **Link do projeto:** 
+Simples, porém efetivo. **Link do projeto:** https://appweatherlucascordeiro.netlify.app
 
 ## Considerações
-Este projeto foi uma releitura do projeto realizado pelo Matheus Balestrini, programador e youtube.r
+Este projeto foi uma releitura do projeto realizado pelo Matheus Balestrini, programador e youtuber.
