@@ -17,3 +17,10 @@ Para todos os elementos dinâmicos da página e o request da API utilizada no pr
 Para ter acesso a todos os dados de clima de cidades de todo o mundo 
 
 ## Imagem do layout da aplicação
+
+![openweather - img](https://user-images.githubusercontent.com/89361241/196690568-3dec0738-b5e7-4fc9-a0bd-6bb9d7adcf22.png)
+
+Simples, porém efetivo. **Link do projeto:** 
+
+## Considerações
+Este projeto foi uma releitura do projeto realizado pelo Matheus Balestrini, programador e youtube.r
